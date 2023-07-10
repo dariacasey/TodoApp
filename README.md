@@ -2,10 +2,7 @@
 
 ## Introduction
 
-This is the source code for an Android to-do list app. The main screen holds a floating action button as well as all of the tasks the user adds. 
-The user can check off, edit, and delete the tasks once they are added. The state of the tasks are kept up with through the SQLite database. 
-Users can also navigate to a settings screen on the main page where they
-can toggle the app between dark mode and light mode. 
+This code represents the foundation of an Android application designed for managing to-do lists. The primary interface showcases a floating action button and displays all the tasks added by the user. Once added, tasks can be checked off, edited, or deleted as needed. The SQLite database is utilized to maintain the current state of the tasks. Additionally, users can access the settings screen from the main page, enabling them to switch the app's visual theme between dark mode and light mode.
 
 ## Features
 
