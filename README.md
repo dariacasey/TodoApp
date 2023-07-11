@@ -10,9 +10,8 @@ This code represents the foundation of an Android application designed for manag
 - Dark mode 
 
 ## Technologies
-  - Windows Forms
-  - .NET Desktop Development framework
-  - Visual Studio 2022
+
+  - Android Studio 2022.1.1
 
 ## Usage
 
